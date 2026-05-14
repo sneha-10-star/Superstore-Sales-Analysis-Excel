@@ -5,8 +5,9 @@ Superstore Sales Performance | Excel Portfolio
 This project involves a comprehensive analysis of retail sales data to track business performance across different regions and product categories.
 
 I transformed a raw dataset of 9,500 transactions into a functional business dashboard using Excel to provide a clear view of revenue trends.
-
+---
 📊 Business Metrics (KPIs)
+---
 Total Revenue: $2.26 Million – The total gross sales generated.
 
 Total Orders: 9,500 – The total volume of customer transactions processed.
@@ -14,6 +15,7 @@ Total Orders: 9,500 – The total volume of customer transactions processed.
 Average Ticket (AOV): $230.77 – The average spend per order, identifying customer value.
 
 🛠️ Tools & Skills Used
+
 ✔ Data Sourcing
 
 Raw dataset sourced from Kaggle.
